@@ -1,8 +1,15 @@
 # Supervised Learning flow - Titanic Dataset
+
 This project involves a supervised learning approach to predict the survival of passengers on the Titanic. Utilizing the Titanic dataset, the project explores various machine learning models to classify the passengers. The analysis includes data preprocessing, feature engineering, model training, and evaluation, providing insights into the factors that influenced survival rates.
 
 # PREFERABLY OPEN THE ipynb FILE TO READ
 
+
+## Features
+### • **Data Preprocessing**: Handle missing values, encode categorical variables, and normalize data.  
+### • **Exploratory Data Analysis (EDA)**: Visualize data distributions and relationships.  
+### • **Machine Learning Models**: Train and evaluate models like Logistic Regression, Random Forest, and more.  
+### • **Model Evaluation**: Assess model performance using accuracy, precision, recall, and F1-score.
 ## Part 1 - Experiments
 
 
